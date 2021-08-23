@@ -1,2 +1,7 @@
-# RESUME
-RESUME about me
+# 이력서
+
+## 소개
+
+## 기술
+
+## 경력
