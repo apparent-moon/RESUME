@@ -10,7 +10,7 @@
 ## SNS
 
 - [Github](https://github.com/apparent-moon)
-- [Gmail](apmoon203@gmail.com)
+- [Gmail]<apmoon203@gmail.com>
 - [Blog](https://apparent-moon.github.io/)
 
 ## 기술
