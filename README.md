@@ -60,6 +60,6 @@ Watch관련 BatteryApp 팀에서 Bixby training 관련 업무 진행
 ### [covid19Prevention](https://github.com/apparent-moon/bixby_covid19Vaccination)
 빅스비를 통해 서울시 코로나 확진자 수와 백신접종 인원을 알 수 있는 캡슐입니다.
 > 개인 프로젝트
-- 기간 : 2021.06 - 진행중
-- 언어 : Bixby
+- 기간 : 2021.06 - 2021.06
+- 언어 : Bixby, Javascript
 - [Github Repository](https://github.com/apparent-moon/bixby_covid19Vaccination)
