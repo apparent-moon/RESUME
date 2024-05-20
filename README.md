@@ -14,16 +14,22 @@
 
 ### Backend
 - JAVA
+- Spring
 
 ### Frontend
+- JSP
+- jQuery
 - JavaScript
 - HTML5
 - CSS
 
+### DB
+
 ### ETC
-- Github
+- Github, GitLab
 - Jira
 - Slack
+- Jenkins
 
 ## 경력
 
@@ -47,9 +53,8 @@ Calendar팀에서 Mobile 관련 업무를 도맡아 Bixby training 및 Java Scri
 Watch관련 BatteryApp 팀에서 Bixby training 관련 업무 진행
 
 ### 솔비트
-- 2021.11.16 ~ 
-- 2021.11.17~ 2021.12.31 분당서울대학교병원 하자보수
-- 2022.1.7 ~ 현재 국가생명윤리정책원 하자보수
+- 2021.11.16 ~ 2024.02.29
+- 분당서울대학교, 국가생명윤리정책원, 식품의약안전처, 고려대학교 등에서 e-IRB 시스템 고도화, 하자보수, 유지보수 업무 진행 
 
 ## 학력
 - 건국대학교 글로컬캠퍼스 과학기술대학 컴퓨터공학과 졸업
