@@ -24,6 +24,7 @@
 - CSS
 
 ### DB
+- MySQL, MariaDB 등의 RDBMS
 
 ### ETC
 - Github, GitLab
